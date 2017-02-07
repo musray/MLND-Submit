@@ -1,4 +1,4 @@
 # Homework or project submission repo
 
-## Titanic_Servival_Exploration
-See folder `titanic_servival_exploration`
+## Titanic_Survival_Exploration
+See folder `titanic_survival_exploration`
